@@ -1,0 +1,11 @@
+{
+  "name": "belajar-js-live-session",
+  "version": "1.0.0",
+  "description": "belajar javascript bootcamp sanbercode",
+  "main": "index.js",
+  "scripts": {
+    "start": "node print.js"
+  },
+  "author": "theresia",
+  "license": "ISC"
+}
